@@ -1,0 +1,7 @@
+README.md
+setup.py
+RegessorProject.egg-info/PKG-INFO
+RegessorProject.egg-info/SOURCES.txt
+RegessorProject.egg-info/dependency_links.txt
+RegessorProject.egg-info/requires.txt
+RegessorProject.egg-info/top_level.txt
